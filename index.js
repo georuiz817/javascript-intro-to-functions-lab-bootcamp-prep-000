@@ -4,5 +4,5 @@ return string.toUpperCase()
 }
 
 function whisper(string) {
-  return string.ToLowerCase()
+  return string.toLowerCase()
 }
